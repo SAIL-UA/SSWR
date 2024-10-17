@@ -1,6 +1,6 @@
 title: Open Knowledge Graph - Rural Ontology
 description: This is the documentation site for my project.
-url: "https://no_code_ai.github.io/"
+url: "https://sail-ua.github.io/no_code_ai.github.io/"
 remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 
 # Sidebar navigation structure
@@ -8,18 +8,16 @@ nav:
   - title: "Home"
     url: "/"
     nav_order: 1
-  - title: "PDF Parsing"
-    url: "/pdf-parsing"
+  - title: "Slides"
+    url: "/slides"
     nav_order: 2
-  - title: "Ontology Construction"
-    url: "/ontology-construction"
+  - title: "Flyer"
+    url: "/flyer"
     nav_order: 3
-  - title: "Knowledge Graph Database"
-    url: "/knowledge-graph-database"
+  - title: "Links to Datasets"
+    url: "/datasets"
     nav_order: 4
-  - title: "User Interface"
-    url: "/user-interface"
+  - title: "Others"
+    url: "/other"
     nav_order: 5
-  - title: "Meet Our Team"
-    url: "/team"
-    nav_order: 6
+
