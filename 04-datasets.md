@@ -8,8 +8,8 @@ nav_order: 4
 
 You can download the datasets from the links below:
 
-- [Download SRB Data (Excel)](/datasets/SRB_Data.xlsx)
-- [Download Prompts (Word)](/datasets/Prompts.docx)
+- [Download SRB Data (Excel)](/dataset/SRB_Data.xlsx)
+- [Download Prompts (Word)](/dataset/Prompts.docx)
 
 
 
