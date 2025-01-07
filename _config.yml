@@ -1,5 +1,5 @@
 title: Education and Training
-description: This is the documentation site for my project.
+description: This is the documentation site for SSWR workshop.
 url: "https://sail-ua.github.io/SSWR/"
 remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 
@@ -11,13 +11,8 @@ nav:
   - title: "Slides"
     url: "/slides"
     nav_order: 2
-  - title: "Flyer"
-    url: "/flyer"
-    nav_order: 3
   - title: "Links to Datasets"
     url: "/datasets"
-    nav_order: 4
-  - title: "Others"
-    url: "/other"
-    nav_order: 5
+    nav_order: 3
+
 

@@ -10,12 +10,17 @@ permalink: /
 Welcome to the **No-Code AI Workshop**! This exciting and informative event is designed to introduce participants to the world of artificial intelligence and machine learning without the need to write a single line of code. Whether you're a student, a professional, or just someone eager to learn about AI, this workshop will guide you through using powerful tools like **ChatGPT** to revolutionize data analysis and model building.
 
 ## Workshop Details:
-- **Date**: October 18, 2024
-- **Time**: 1:00 PM - 3:00 PM
-- **Location**: Cyber Hall 1036
+- **Date**: January 16, 2025
+- **Time**: 8 AM-12 PM
 
 ## Workshop Presenter:
+- **Dr. Hee Yun Lee**
+  - Department of Computer Science
+  - College of Engineering
 - **Dr. Jiaqi Gong**
+  - Department of Computer Science
+  - College of Engineering
+- **Xishi(Ethan) Zhu**
   - Department of Computer Science
   - College of Engineering
 
@@ -31,18 +36,12 @@ This is a perfect opportunity for individuals who want to explore the potential 
 ## Contact Information:
 For any questions regarding the workshop, feel free to contact:
 
-**Hannah Holcomb**  
-NRT Program Coordinator  
-Email: [heholcomb1@ua.edu](mailto:heholcomb1@ua.edu)  
-Phone: 205-348-4695
+**Xishi(Ethan) Zhu**    
+Email: [xzhu39@crimson.ua.edu](mailto:xzhu39@crimson.ua.edu)  
+Phone: 443-520-3230
 
 Join us for this workshop and start your journey into the world of AI—no coding required!
 
-## Workshop Flyer
-
-You can download the official flyer for the No-Code AI Workshop below:
-
-[Download the Workshop Flyer (PDF)](/dataset/flyer.pdf)
 
 
 
