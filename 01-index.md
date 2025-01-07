@@ -15,14 +15,14 @@ Welcome to the **No-Code AI Workshop**! This exciting and informative event is d
 
 ## Workshop Presenter:
 - **Dr. Hee Yun Lee**
-  - Department of Computer Science
-  - College of Engineering
+  - School of Social Work
+  
 - **Dr. Jiaqi Gong**
   - Department of Computer Science
-  - College of Engineering
+  
 - **Xishi(Ethan) Zhu**
   - Department of Computer Science
-  - College of Engineering
+  
 
 ## What You'll Learn:
 During this workshop, you'll discover how no-code AI platforms can empower you to:
